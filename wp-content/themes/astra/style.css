@@ -45,3 +45,139 @@ https://pxhere.com/en/photo/1456591
 https://pxhere.com/en/photo/1389199
 
 /* Note: The CSS files are loaded from assets/css/ folder. */
+
+
+
+
+/* Login form code and color */
+
+.login-sec-box {
+    background-color: #d6e2e3;
+    border-radius: 20px;
+    position: relative;
+    padding: 30px;
+}
+.login-from-box input#wpuf-user_login {
+    height: 50px;
+    border: 0px !important;
+    font-size: 14px;
+    border-radius: 25px !important;
+    font-weight: normal;
+    outline: none;
+    width: 50%;
+    padding: 0px 30px;
+}
+.login-from-box input#wpuf-user_pass {
+    height: 50px;
+    border: 0px !important;
+    font-size: 14px;
+    border-radius: 25px !important;
+    font-weight: normal;
+    outline: none;
+    width: 50%;
+    padding: 0px 30px;
+}
+.login-from-box input#wp-submit {
+    padding: 14px 40px !important;
+    border: 0px !important;
+    display: inline-block;
+    border-radius: 27px !important;
+    color: #fff !important;
+    cursor: pointer;
+    text-decoration: none;
+    min-width: 150px;
+    text-align: center;
+    font-weight: 700;
+    font-size: 16px;
+    width: 55%;
+}
+.login-from-box .elementor-button-wrapper .elementor-button {
+    border: 0px !important;
+    display: inline-block;
+    border-radius: 27px !important;
+    color: #fff !important;
+    cursor: pointer;
+    text-decoration: none;
+    min-width: 150px;
+    text-align: center;
+    font-weight: 700;
+    font-size: 16px;
+    width: 55%;
+}
+.login-from-box .wpuf-message {
+    margin-left: 230px;
+    margin-right: 230px;
+}
+.login-from-box select.input {
+    height: 50px !important;
+    border: 0px !important;
+    border-radius: 25px !important;
+    font-weight: normal;
+    outline: none;
+    width: 50%;
+    padding: 0px 30px;
+}
+.login-from-box input#seq_ans\[\] {
+    height: 50px;
+    border: 0px !important;
+    font-size: 14px;
+    border-radius: 25px !important;
+    font-weight: normal;
+    outline: none;
+    width: 50%;
+    padding: 0px 30px;
+}
+
+/* Registration Form */
+.registration-from-box {
+    background-color: #d6e2e3;
+    border-radius: 20px;
+    position: relative;
+    padding: 30px;
+}
+.registration-from-box .ur-frontend-form .ur-form-row .ur-form-grid input[type=text] {
+    height: 50px;
+    border: 0px !important;
+    font-size: 14px;
+    border-radius: 25px !important;
+    font-weight: normal;
+    outline: none;
+    padding: 0px 30px;
+}
+
+.registration-from-box .ur-frontend-form .ur-form-row .ur-form-grid input[type=email] {
+    height: 50px;
+    border: 0px !important;
+    font-size: 14px;
+    border-radius: 25px !important;
+    font-weight: normal;
+    outline: none;
+    padding: 0px 30px;
+}
+
+.registration-from-box .ur-frontend-form .ur-form-row .ur-form-grid .hide_show_password input[type=password] {
+    height: 50px;
+    border: 0px !important;
+    font-size: 14px;
+    border-radius: 25px !important;
+    font-weight: normal;
+    outline: none;
+    padding: 0px 30px;
+}
+
+.registration-from-box .ur-frontend-form .ur-button-container .ur-submit-button {
+    padding: 14px 40px !important;
+    border: 0px !important;
+    display: inline-block;
+    border-radius: 27px !important;
+    color: #fff !important;
+    cursor: pointer;
+    text-decoration: none;
+    min-width: 150px;
+    text-align: center;
+    font-weight: 700;
+    font-size: 16px;
+    width: 100%;
+}
+
+

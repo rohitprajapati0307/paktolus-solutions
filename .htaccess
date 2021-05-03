@@ -13,4 +13,7 @@ RewriteCond %{REQUEST_FILENAME} !-d
 RewriteRule . /paktolus-solutions/index.php [L]
 </IfModule>
 
+
+php_value max_execution_time 700
+
 # END WordPress

@@ -5480,3 +5480,27 @@ input[type="color"]::-webkit-color-swatch {
 .ast-align-self-stretch {
   align-self: stretch;
 }
+
+
+
+.login-from-box input#wpuf-user_login {
+    height: 50px;
+    border: 0px !important;
+    font-size: 14px;
+    border-radius: 25px !important;
+    font-weight: normal;
+    outline: none;
+    width: 50%;
+    padding: 0px 30px;
+}
+
+.login-from-box input#wpuf-user_pass {
+    height: 50px;
+    border: 0px !important;
+    font-size: 14px;
+    border-radius: 25px !important;
+    font-weight: normal;
+    outline: none;
+    width: 50%;
+    padding: 0px 30px;
+}
